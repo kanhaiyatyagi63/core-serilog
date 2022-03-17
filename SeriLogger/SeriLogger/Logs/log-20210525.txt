@@ -1,0 +1,62 @@
+2021-05-25 18:15:15.991 +05:30 [INF] Application Starting.
+2021-05-25 18:15:16.464 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-25 18:15:16.465 +05:30 [INF] Hosting environment: Development
+2021-05-25 18:15:16.499 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-25 18:18:39.329 +05:30 [INF] Application Starting.
+2021-05-25 18:18:39.864 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-25 18:18:39.865 +05:30 [INF] Hosting environment: Development
+2021-05-25 18:18:39.896 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-25 18:18:40.433 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET WeatherForecast" for actions - SeriLogger.Controllers.WeatherForecastController.Get (SeriLogger),SeriLogger.Controllers.WeatherForecastController.GetError (SeriLogger). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-05-25 18:19:15.779 +05:30 [INF] Application Starting.
+2021-05-25 18:19:16.257 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-25 18:19:16.258 +05:30 [INF] Hosting environment: Development
+2021-05-25 18:19:16.272 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-25 18:20:05.129 +05:30 [INF] Application Starting.
+2021-05-25 18:20:05.728 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-25 18:20:05.729 +05:30 [INF] Hosting environment: Development
+2021-05-25 18:20:05.805 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-25 18:20:06.196 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET WeatherForecast" for actions - SeriLogger.Controllers.WeatherForecastController.Get (SeriLogger),SeriLogger.Controllers.WeatherForecastController.GetError (SeriLogger). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-05-25 18:20:48.631 +05:30 [INF] Application Starting.
+2021-05-25 18:20:48.953 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-25 18:20:48.954 +05:30 [INF] Hosting environment: Development
+2021-05-25 18:20:48.972 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-25 18:20:49.331 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET WeatherForecast" for actions - SeriLogger.Controllers.WeatherForecastController.Get (SeriLogger),SeriLogger.Controllers.WeatherForecastController.GetWhether (SeriLogger). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-05-25 18:21:29.074 +05:30 [INF] Application Starting.
+2021-05-25 18:21:29.371 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-25 18:21:29.372 +05:30 [INF] Hosting environment: Development
+2021-05-25 18:21:29.391 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-25 18:21:42.192 +05:30 [ERR] System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.String.get_Chars(Int32 index)
+   at SeriLogger.Controllers.WeatherForecastController.Get() in C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger\Controllers\WeatherForecastController.cs:line 32
+2021-05-25 18:21:45.509 +05:30 [ERR] System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at System.String.get_Chars(Int32 index)
+   at SeriLogger.Controllers.WeatherForecastController.Get() in C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger\Controllers\WeatherForecastController.cs:line 32
+2021-05-25 18:37:26.353 +05:30 [INF] Application Starting.
+2021-05-25 18:37:26.653 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-25 18:37:26.654 +05:30 [INF] Hosting environment: Development
+2021-05-25 18:37:26.679 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-25 18:37:27.054 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET WeatherForecast" for actions - SeriLogger.Controllers.WeatherForecastController.Get (SeriLogger),SeriLogger.Controllers.WeatherForecastController.GetWrapper (SeriLogger). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)

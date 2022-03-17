@@ -1,0 +1,41 @@
+2021-05-26 11:35:43.604 +05:30 [INF] Application Starting.
+2021-05-26 11:35:44.557 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-26 11:35:44.559 +05:30 [INF] Hosting environment: Development
+2021-05-26 11:35:44.607 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-26 11:35:45.456 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Values" for actions - SeriLogger.Controllers.ValuesController.GetError (SeriLogger),SeriLogger.Controllers.ValuesController.Values (SeriLogger). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-05-26 11:36:08.500 +05:30 [INF] Application Starting.
+2021-05-26 11:36:08.896 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-26 11:36:08.897 +05:30 [INF] Hosting environment: Development
+2021-05-26 11:36:08.922 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-26 11:36:28.908 +05:30 [ERR] Error Created by user
+2021-05-26 11:37:18.669 +05:30 [INF] Application Starting.
+2021-05-26 11:37:18.983 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-26 11:37:18.985 +05:30 [INF] Hosting environment: Development
+2021-05-26 11:37:19.010 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-26 11:37:19.388 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/Values" for actions - SeriLogger.Controllers.ValuesController.GetError (SeriLogger),SeriLogger.Controllers.ValuesController.Values (SeriLogger). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-05-26 11:39:44.459 +05:30 [INF] Application Starting.
+2021-05-26 11:39:44.824 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-26 11:39:44.826 +05:30 [INF] Hosting environment: Development
+2021-05-26 11:39:44.853 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-26 11:41:09.059 +05:30 [INF] Application Starting.
+2021-05-26 11:41:09.343 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-26 11:41:09.344 +05:30 [INF] Hosting environment: Development
+2021-05-26 11:41:09.363 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-26 11:41:24.593 +05:30 [ERR] Error Created by user
+2021-05-26 11:41:53.033 +05:30 [INF] Application Starting.
+2021-05-26 11:41:53.334 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2021-05-26 11:41:53.336 +05:30 [INF] Hosting environment: Development
+2021-05-26 11:41:53.356 +05:30 [INF] Content root path: C:\Users\kanhaya\Desktop\EF-Project\Logger\XearoSeriLog\SeriLogger\SeriLogger
+2021-05-26 11:41:58.875 +05:30 [ERR] Error Created by user
